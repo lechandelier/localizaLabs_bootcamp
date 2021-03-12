@@ -1,2 +1,2 @@
 # localizaLabs_bootcamp
-Atividades desenvolvidas durante o bootcamp da Localiza Labs/Digital Inovation One.
+Atividades desenvolvidas durante o bootcamp Localiza Labs .NET Developer.
